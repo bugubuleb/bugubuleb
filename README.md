@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bugubuleb
-- 👀 I’m interested in html, CSS and  JS
+- 👀 I’m interested in fullstack
 - 🌱 I’m currently learning JS
 - 📄 I keep this repository to see my progress in coding...
 - 📒 Perhaps he will give you objective information about me
