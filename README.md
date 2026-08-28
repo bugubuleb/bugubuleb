@@ -1,19 +1,12 @@
 # Hi, I'm Michael 👋
 
-iOS Developer focused on **Swift, SwiftUI and native iOS development**.
+Product-focused developer building **web, mobile and automation products**.
 
-- 📱 Commercial experience building mobile products for the international market
-- 🧩 Worked across the full development cycle: architecture, user flows, REST API and AI integrations, subscriptions, analytics, testing and releases
-- 💻 Previously worked on freelance frontend projects since 2024
-- 🚀 I enjoy building useful software, experimenting with new technologies and creating apps for my own needs
-- 🌱 Currently focused on growing as an iOS developer and improving my knowledge of Swift and the iOS ecosystem
+I use **AI-assisted development** to move quickly from idea and architecture to production-ready software.
 
-### Pet projects
+### My projects
 
-- **[StudyFlow](https://github.com/bugubuleb/StudyFlow)** — iOS study planner built with SwiftUI
-- **[Smart Wishlist](https://github.com/bugubuleb/smart_wishlist)** — wishlist application
-
-### Tech
+- [**StudyFlow**](https://github.com/bugubuleb/StudyFlow) — SwiftUI study planner
 
 `Swift` `SwiftUI` `UIKit` `React Native` `REST API` `Git` `GitHub` `TestFlight`
 
