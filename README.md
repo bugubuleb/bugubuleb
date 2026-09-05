@@ -7,6 +7,8 @@ I focus on turning ideas into real products — from architecture and developmen
 ### My projects
 
 - [**StudyFlow**](https://github.com/bugubuleb/StudyFlow) — SwiftUI study planner
+- [**Smart Notes**](https://github.com/bugubuleb/smart_notes) — smart note-taking application
+- [**Smart Wishlist**](https://github.com/bugubuleb/smart_wishlist) — wishlist management application
 
 `Swift` `SwiftUI` `UIKit` `React Native` `REST API` `Git` `GitHub` `TestFlight`
 
