@@ -1,8 +1,8 @@
 # Hi, I'm Michael 👋
 
-Product-focused developer building **web, mobile and automation products**.
+Product-focused developer building **web, mobile, and automation products**.
 
-I use **AI-assisted development** to move quickly from idea and architecture to production-ready software.
+I focus on turning ideas into real products — from architecture and development to launch, iteration, and improvement.
 
 ### My projects
 
